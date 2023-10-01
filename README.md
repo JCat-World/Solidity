@@ -1,2 +1,2 @@
 # Solidity
-all contracts we created with solidity language
+all contracts we created with the solidity language
